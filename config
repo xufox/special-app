@@ -1,0 +1,9 @@
+Host github-supfox
+
+HostName: GitHub.com
+
+User git
+
+IdentifyFile: ~/.ssh/id_ed25519
+
+Host github-
